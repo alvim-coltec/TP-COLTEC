@@ -1,0 +1,10 @@
+#GitIgnore special file for special peoples
+
+.vscode/
+.vs/
+bin/
+obj/
+Assembly*
+*.config
+*.sln
+*.csproj*
